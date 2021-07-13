@@ -7,6 +7,8 @@
 <title>ワクチンチャレンジ</title>
 </head>
 <body>
-<p>フォワードのチェック</p>
+<form action="Main" method="post">
+<input type="submit" value="チャレンジする">
+</form>
 </body>
 </html>
