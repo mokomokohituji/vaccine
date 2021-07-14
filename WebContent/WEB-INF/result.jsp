@@ -18,5 +18,7 @@
 		<p><%= success %></p>
 		<input type="submit" value="もう一度チャレンジする">
 	</form>
+	<form action="Main"><input type="submit" value="戻る" /></form>
+	
 </body>
 </html>
